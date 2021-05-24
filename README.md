@@ -10,3 +10,6 @@
 * [CodeChef](https://www.codechef.com/users/rishabh1815769)
 * [HackerRank](https://www.hackerrank.com/rishabh1815769)
 * [GeeksForGeeks](https://auth.geeksforgeeks.org/user/rishabh1815769/profile)
+
+## CERTIFICATIONS:
+<a href="https://drive.google.com/uc?export=view&id=1lmuuKml_XEq16M3gpabcz_JGugAgVigE"><img src="https://drive.google.com/uc?export=view&id=<FILEID>" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
