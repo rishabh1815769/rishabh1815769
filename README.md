@@ -14,3 +14,6 @@
 ## CERTIFICATIONS:
 #####         Bootstrap 4 
 <img src="https://github.com/rishabh1815769/Images/blob/main/Certification%20Images/Bootstrap%204.jpg" alt="Bootstrap 4" width="250" style="float:right"/>
+
+## Projects
+### [Vanilla JavaScript Projects](https://github.com/rishabh1815769/Vanilla-Javascript-Projects)
